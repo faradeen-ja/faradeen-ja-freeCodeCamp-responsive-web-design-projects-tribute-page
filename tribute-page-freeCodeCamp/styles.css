@@ -1,0 +1,46 @@
+body{
+    font-size: 1.2rem;
+    font-family: 'roboto', sans-serif;
+    max-width: 100%;
+    margin: 0;
+   
+  }
+  
+  #main{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: gray;
+    
+  }
+  
+  
+  
+  #image{
+  max-width: 100%;
+  height: auto;
+  display:block;
+  margin: auto;
+  
+  
+  }
+  
+  #img-div{
+    background-color: #ff22;
+    padding: 10px;
+    margin: 10px;
+    
+    
+  }
+  
+  #img-caption{
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  #tribute-info{
+    position: relative;
+    line-height: 2.2rem;
+    text-align: justify;
+    right: 16px;
+  }
